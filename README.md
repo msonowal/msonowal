@@ -46,6 +46,17 @@
 </div>
 ---
 
+---
+<table>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/msonowal/msonowal/blob/master/github-metrics.svg">
+      <img width="900" height="1" alt="">
+    </td>
+    
+  </tr>
+</table>
+---
 
 
 <!-- pls deploy your own service using the repo above -->
