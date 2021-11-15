@@ -2,12 +2,12 @@
 
 #### I'm a Full Stack developer from India 🇮🇳
 
-- 🏢 I'm currently working at **Clarity Technologies**
-- ⚡️ I'm hardcore **Laravel** guy
+- 🏢 I'm currently working at [**Clarity Technologies**](https://github.com/clarity-tech)
+- ⚡️ I'm hardcore **Laravel** guy and loved the simplicity of Vue
 - ⛴ I'm also crazy with frontend Vue (Nuxt) / Tailwind
 - 💚 I'm actively preaching Nuxt based JAMStack apps and Inertia based apps
 - ⚙️ I use daily: `.php`,`.js`, `.html`, `.css`, `.ts`, `.yml`
-- 💬 Ping me about **laravel**, **vue**, **docker**, **nodejs**, **scaffolding**
+- 💬 Ping me about **laravel**, **vue**, **docker**, **nodejs**, **scaffolding**, **aws**, **gcp**, **cloudOPS**
 - 📫 Reach me: [twitter.com/msonowal](https://twitter.com/msonowal)
 - ⚡️ Fun fact: I'm a die hard GAMER at #WARZONE also loves RACING DIRT, GRID etc. (not arcade much)
 
