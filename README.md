@@ -2,7 +2,7 @@
 
 #### I'm a Full Stack developer from India 🇮🇳
 
-- 🏢 I'm currently working at [**Clarity Technologies**](https://github.com/clarity-tech)
+- 🏢 I'm Founder and currently working at [**Clarity Technologies**](https://github.com/clarity-tech)
 - ⚡️ I'm hardcore **Laravel** guy and loved the simplicity of Vue
 - ⛴ I'm also crazy with frontend Vue (Nuxt) / Tailwind
 - 💚 I'm actively preaching Nuxt based JAMStack apps and Inertia based apps
