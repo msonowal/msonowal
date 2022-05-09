@@ -8,8 +8,9 @@
 - 💚 I'm actively preaching Nuxt based JAMStack apps and Inertia based apps
 - ⚙️ I use daily: `.php`,`.js`, `.go`, `.ts`,`.html`, `.css`, `.yml`
 - 💬 Ping me about **laravel**, **vue**, **docker**, **nodejs**, **scaffolding**, **aws**, **gcp**, **cloudOPS**
+- Manage your infra via CLOUDFORMATION infrastructure as code so that everything is reproducable and smoother maintanance.
 - 📫 Reach me: [twitter.com/msonowal](https://twitter.com/msonowal)
-- ⚡️ Fun fact: I'm a die hard GAMER at #WARZONE also loves RACING DIRT, GRID, FH4 etc. (not arcade much)
+- ⚡️ Fun fact: I'm a die hard GAMER at #WARZONE also loves RACING DIRT, DIRT RALLY, GRID, FH4 etc. (not arcade much)
 
 
 ---
