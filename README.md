@@ -6,8 +6,8 @@
 - ⚡️ I'm hardcore **Laravel** guy and loved the simplicity of Vue
 - ⛴ I'm also crazy with frontend Vue (Nuxt) / Tailwind
 - 💚 I'm actively preaching Nuxt based JAMStack apps and Inertia based apps
-- ⚙️ I use daily: `.php`,`.js`, `.go`, `.ts`,`.html`, `.css`, `.yml`
-- 💬 Ping me about **laravel**, **vue**, **docker**, **nodejs**, **scaffolding**, **aws**, **gcp**, **cloudOPS**
+- ⚙️ I use daily: `.php`,`.js`, `.go`, `.ts`,`.html`, `.css`, `.yml`, `.sh`
+- 💬 Ping me about **Laravel**, **TALL stack**, **Vue**, **docker**, **NestJS**, **NodeJS**, **scaffolding**, **AWS**, **GCP**, **cloudOPS**, **CI/CD**, **NuxtJS**, **NGINX**, **Serverless** 
 - Manage your infra via CLOUDFORMATION infrastructure as code so that everything is reproducable and smoother maintanance.
 - 📫 Reach me: [twitter.com/msonowal](https://twitter.com/msonowal)
 - ⚡️ Fun fact: I'm a die hard GAMER at #WARZONE also loves RACING DIRT, DIRT RALLY, GRID, FH4 etc. (not arcade much)
