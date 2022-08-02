@@ -1,6 +1,5 @@
 
 ![msonowal](https://readme-typing-svg.herokuapp.com?size=15&duration=2000&color=01DC44&lines=msonowal)
-
 ### My name is Manash.
 I'm a Full Stack developer from India 🇮🇳. I spend most of my time these days writing elegant lines of code. 
 
