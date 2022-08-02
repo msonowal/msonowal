@@ -1,16 +1,15 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=01DC44&lines=msonowal)](https://git.io/typing-svg)
+[![msonowal](https://readme-typing-svg.herokuapp.com?size=15&duration=2000&color=01DC44&lines=msonowal)]
 
-# Hello 🙏🏽
-
-#### I'm a Full Stack developer from India 🇮🇳
+### My name is Manash.
+I'm a Full Stack developer from India 🇮🇳. I spend most of my time these days writing elegant lines of code. 
 
 - 🏢 I'm Founder and currently working at [**Clarity Technologies**](https://github.com/clarity-tech)
 - ⚡️ I'm hardcore **Laravel** guy and loved the simplicity of Vue
-- ⛴ I'm also crazy with frontend Vue (Nuxt) / Tailwind
+- ⛴ I'm also crazy with frontend Vue (Nuxt) / [Tailwind](https://tailwindcss.com/)
 - 💚 I'm actively preaching Nuxt based JAMStack apps and Inertia based apps
 - ⚙️ I use daily: `.php`,`.js`, `.go`, `.ts`,`.html`, `.css`, `.yml`, `.sh`
-- 💬 Ping me about **Laravel**, **TALL stack**, **Vue**, **docker**, **NestJS**, **NodeJS**, **scaffolding**, **AWS**, **GCP**, **cloudOPS**, **CI/CD**, **NuxtJS**, **NGINX**, **Serverless** 
+- 💬 Ping me about **Laravel**, **[TALL stack](https://tallstack.dev)**, **Vue**, **docker**, **NestJS**, **NodeJS**, **scaffolding**, **AWS**, **GCP**, **cloudOPS**, **CI/CD**, **NuxtJS**, **NGINX**, **Serverless**, **[Alpine.js](https://alpinejs.dev)**, **[Livewire](https://laravel-livewire.com/)**
 - Manage your infra via CLOUDFORMATION infrastructure as code so that everything is reproducable and smoother maintanance.
 - 📫 Reach me: [twitter.com/msonowal](https://twitter.com/msonowal)
 - ⚡️ Fun fact: I'm a die hard GAMER at #WARZONE also loves RACING DIRT, DIRT RALLY, GRID, FH4 etc. (not arcade much)
