@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=01DC44&lines=msonowal)](https://git.io/typing-svg)
+
 # Hello 🙏🏽
 
 #### I'm a Full Stack developer from India 🇮🇳
