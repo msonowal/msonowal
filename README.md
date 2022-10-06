@@ -1,6 +1,10 @@
 
 ![msonowal](https://readme-typing-svg.herokuapp.com?size=15&duration=2000&color=01DC44&lines=msonowal)
 ### My name is Manash.
+
+:star: Give me a hard problem to solve 
+
+
 I'm a Full Stack developer from India 🇮🇳. I spend most of my time these days writing elegant lines of code. 
 
 - 🏢 I'm Founder and currently working at [**Clarity Technologies**](https://github.com/clarity-tech)
