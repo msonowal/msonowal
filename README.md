@@ -18,8 +18,16 @@ I'm a Full Stack developer from India 🇮🇳. I spend most of my time these da
 - ⚡️ Fun fact: I'm a die hard GAMER at #WARZONE also loves RACING DIRT, DIRT RALLY, GRID, FH4 etc. (not arcade much)
 
 
+<!-- [![user:1125961's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/1125961?theme=dark&website=false&location=false)](https://github.com/johannchopin/stackoverflow-readme-profile) -->
+[![user:1125961's ranking for php](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/php/1125961?theme=dark)](https://stackoverflow-readme-profile.vercel.app/tags-league/php/users/1125961)
 ---
 
+<div>
+  <h4> StackOverflow</h4>
+  <a href="https://stackoverflow.com/users/1125961/msonowal?tab=profile">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=msonowal&theme=dark"/>
+  </a>
+</div>
 
 <div>
   <h4>⚡️ Current Github Streak</h4>
