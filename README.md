@@ -22,12 +22,12 @@ I'm a Full Stack developer from India 🇮🇳. I spend most of my time these da
 [![user:1125961's ranking for php](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/php/1125961?theme=dark)](https://stackoverflow-readme-profile.vercel.app/tags-league/php/users/1125961)
 ---
 
-<div>
+<!-- <div>
   <h4> StackOverflow</h4>
   <a href="https://stackoverflow.com/users/1125961/msonowal?tab=profile">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=msonowal&theme=dark"/>
   </a>
-</div>
+</div> -->
 
 <div>
   <h4>⚡️ Current Github Streak</h4>
