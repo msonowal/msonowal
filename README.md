@@ -15,6 +15,7 @@ I'm a Full Stack developer from India 🇮🇳. I spend most of my time these da
 - 💬 Ping me about **Laravel**, **[TALL stack](https://tallstack.dev)**, **Vue**, **docker**, **NestJS**, **NodeJS**, **scaffolding**, **AWS**, **GCP**, **cloudOPS**, **CI/CD**, **NuxtJS**, **NGINX**, **Serverless**, **[Alpine.js](https://alpinejs.dev)**, **[Livewire](https://laravel-livewire.com/)**
 - Manage your infra via CLOUDFORMATION infrastructure as code so that everything is reproducable and smoother maintanance.
 - 📫 Reach me: [twitter.com/msonowal](https://twitter.com/msonowal)
+- Got a Performance problem to optimize or want me to write GO program? 
 - ⚡️ Fun fact: I'm a die hard GAMER at #WARZONE also loves RACING DIRT, DIRT RALLY, GRID, FH4 etc. (not arcade much)
 
 
