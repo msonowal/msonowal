@@ -316,7 +316,7 @@
                                 <div class="infos">
                                     <div class="name">Xuoroni Kuwoli</div>
                                     <div class="artist">Papon</div>
-                                    <div class="played-at">Played at 01:27:00 on 27 Oct 2023</div>
+                                    <div class="played-at">Played at 08:48:30 on 27 Oct 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1363,7 +1363,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2023, 13:38:39 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2023, 18:38:25 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
