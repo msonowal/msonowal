@@ -11,9 +11,9 @@ I'm a Full Stack developer from India 🇮🇳. I spend most of my time these da
 - ⚡️ I'm hardcore **Laravel** guy and loved the simplicity of Vue
 - ⛴ I'm also crazy with frontend Vue (Nuxt) / [Tailwind](https://tailwindcss.com/)
 - 💚 I'm actively preaching Nuxt based JAMStack apps and Inertia based apps
-- ⚙️ I use daily: `.php`,`.js`, `.go`, `.ts`,`.html`, `.css`, `.yml`, `.sh`
+- ⚙️ I use daily: `.php`,`.js`, `.go`, `.ts`,`.html`, `.css`, `.yml`, `.sh`, `.tf`
 - 💬 Ping me about **Laravel**, **[TALL stack](https://tallstack.dev)**, **Vue**, **docker**, **NestJS**, **NodeJS**, **scaffolding**, **AWS**, **GCP**, **cloudOPS**, **CI/CD**, **NuxtJS**, **NGINX**, **Serverless**, **[Alpine.js](https://alpinejs.dev)**, **[Livewire](https://laravel-livewire.com/)**
-- Manage your infra via CLOUDFORMATION infrastructure as code so that everything is reproducable and smoother maintanance.
+- Manage your infra via CLOUDFORMATION infrastructure as code so that everything is reproducable and smoother maintanance. by using Terraform, Cloudformation and ansible
 - 📫 Reach me: [twitter.com/msonowal](https://twitter.com/msonowal)
 - Got a Performance problem to optimize or want me to write GO program? 
 - ⚡️ Fun fact: I'm a die hard GAMER at #WARZONE also loves RACING DIRT, DIRT RALLY, GRID, FH4 etc. (not arcade much)
