@@ -5,7 +5,7 @@
 :star: Give me a hard problem to solve 
 
 
-I'm a Full Stack developer from India 🇮🇳. I spend most of my time these days writing elegant lines of code. 
+I'm a Full Stack developer from India 🇮🇳. I spend most of my time these days writing elegant lines of code. I also spends times on designing & architecting mission critical platforms and solutions.
 
 - 🏢 I'm Founder and currently working at [**Clarity Technologies**](https://github.com/clarity-tech)
 - ⚡️ I'm hardcore **Laravel** guy and loved the simplicity of Vue
