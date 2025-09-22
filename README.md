@@ -73,6 +73,8 @@ I'm a Full Stack developer from India 🇮🇳. I spend most of my time these da
 </table>
 ---
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3CU8nP4kstlbEHkSPX9ZDx?utm_source=generator&theme=0" width="90%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 <!-- pls deploy your own service using the repo above -->
 ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/msonowal-github-readme)
