@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Manash Sonowal, Cloud-native Solution Architect">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06130d"/><stop offset="1" stop-color="#0d2a1b"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#01dc44"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+<rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+<g opacity=".16" stroke="#01dc44" fill="none" stroke-width="1.5"><circle cx="1010" cy="150" r="70"/><circle cx="1010" cy="150" r="115"/><circle cx="1010" cy="150" r="160"/></g>
+<g fill="#01dc44" opacity=".9"><circle cx="1080" cy="105" r="6"/><circle cx="945" cy="190" r="5" fill="#34d399"/><circle cx="1050" cy="215" r="4"/></g>
+<rect x="70" y="72" width="64" height="5" rx="2.5" fill="url(#ac)"/>
+<text x="70" y="140" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="56" font-weight="700" fill="#ecfdf5">Manash Sonowal</text>
+<text x="70" y="188" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="600" fill="url(#ac)">Cloud-native Solution Architect</text>
+<text x="70" y="232" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#86a899">Platform engineering · Kubernetes · Laravel · Go · AI integrations</text>
+</svg>
